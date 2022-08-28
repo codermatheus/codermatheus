@@ -1,4 +1,5 @@
 <h1 align="left">Hi <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" height="30px">, I'm Matheus Tonon</h1>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=distromatheus&color=blue" alt="Profile views" /> </p>
 
 - 👤 I am 17 years old, I am a simple programmer and lover of technology. I am currently training as a computer technician at ETEC.
 
@@ -6,7 +7,7 @@
 
 <br><br>
 
-## Langs
+## 
 
 <div style="display: inline-block;">
     <img align="center" alt="HTML" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg">
