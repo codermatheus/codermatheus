@@ -19,6 +19,13 @@ I am 17 years old, I am a simple programmer and lover of technology. I am curren
 
 <br><br>
 
+<p align="left">
+    <img width="530em" src="https://github-readme-stats.vercel.app/api?username=distromatheusto&show_icons=true&theme=github_dark" alt="distromatheus's stats"/>
+    <img width="530em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=distromatheus&layout=compact&theme=github_dark" alt="distromatheus's most languages"/>
+</p>
+
+<br><br>
+
 ## Social Links
 
 <p align="left" style="background:yellow">
