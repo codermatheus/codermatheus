@@ -21,8 +21,8 @@ I am 17 years old, I am a simple programmer and lover of technology. I am curren
 
 <div align="center">
   <a href="https://github.com/distromatheus">
-    <p align"center"><img height="180em" src="https://github-readme-stats.vercel.app/api?username=distromatheus&theme=github_dark&show_icons=true&locale=en" alt="distromatheus"/>
-      <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=distromatheus&layout=compact&langs_count=7&theme=github_dark" alt="distromatheus"/>
+    <p align"center"><img height="180em" src="https://github-readme-stats.vercel.app/api?username=distromatheus&theme=algolia&show_icons=true&locale=en" alt="distromatheus"/>
+      <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=distromatheus&layout=compact&langs_count=7&theme=algolia" alt="distromatheus"/>
     </p>
 </div>
 
@@ -30,7 +30,7 @@ I am 17 years old, I am a simple programmer and lover of technology. I am curren
 
 ## Social Links
 
-<p align="left" style="background:yellow">
+<p align="left">
 <a href="https://www.youtube.com/channel/UCGjUT9i7AuRwRvRSqIELhMQ" target="_blank">
   <img align="center" src="https://img.shields.io/badge/-mathxustonon-05122A?style=flat&logo=youtube" alt="youtube"/>
 </a>
