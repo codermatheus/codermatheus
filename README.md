@@ -22,7 +22,7 @@ I am 17 years old, I am a simple programmer and lover of technology. I am curren
 <div align="center">
   <a href="https://github.com/distromatheus">
     <p align"center"><img height="160em" src="https://github-readme-stats.vercel.app/api?username=distromatheus&theme=github_dark&show_icons=true&locale=en" alt="distromatheus"/>
-      <img height="160em" src="https://github-readme-streak-stats.herokuapp.com/?user=distromatheus&theme=github_dark&show_icons=true&locale=en" alt="distromatheus"/>
+      <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=distromatheus&layout=compact&theme=github_dark" alt="distromatheus"/>
     </p>
 </div>
 
