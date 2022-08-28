@@ -1,5 +1,30 @@
-### Hi there! Welcome to my profile 👋
+<h1 align="left">Hi <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" height="30px">, I'm Matheus Tonon</h1>
 
+- I am 17 years old, I am a simple programmer and lover of technology. I am currently training as a computer technician at ETEC.
+
+- More at [matheustonon.dev](matheustonon.dev)
+
+<br><br>
+
+## Social links
+
+<p align="left" style="background:yellow">
+<a href="https://www.youtube.com/channel/UCGjUT9i7AuRwRvRSqIELhMQ" target="_blank">
+  <img align="center" src="https://img.shields.io/badge/-mathxustonon-05122A?style=flat&logo=youtube" alt="youtube"/>
+</a>
+<a href="https://twitch.tv/distromatheus" target="_blank">
+  <img align="center" src="https://img.shields.io/badge/-distromatheus-05122A?style=flat&logo=twitch" alt="twitch"/>  
+</a>
+<a href="https://www.linkedin.com/in/matheus-tonon-dos-reis-8094601a1/" target="_blank">
+  <img align="center" src="https://img.shields.io/badge/-maykbrito-05122A?style=flat&logo=linkedin" alt="linkedin"/>
+</a>
+<a href="https://instagram.com/mathxustonon" target="_blank">
+ <img align="center" src="https://img.shields.io/badge/-maykbrito-05122A?style=flat&logo=instagram" alt="instagram"/>
+</a>
+<a href="https://twitter.com/mathxustonon" target="_blank">
+ <img align="center" src="https://img.shields.io/badge/-mathxustonon-05122A?style=flat&logo=twitter" alt="twitter"/>
+</a>
+</p>
 ##
 
 ![My Stats](https://github-readme-stats.vercel.app/api?username=distromatheus&show_icons=true&theme=radical)   
