@@ -1,8 +1,20 @@
 <h1 align="left">Hi <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" height="30px">, I'm Matheus Tonon</h1>
 
-- I am 17 years old, I am a simple programmer and lover of technology. I am currently training as a computer technician at ETEC.
+- 👤 I am 17 years old, I am a simple programmer and lover of technology. I am currently training as a computer technician at ETEC.
 
-- More at [matheustonon.dev](matheustonon.dev)
+- 🌐 More at [matheustonon.dev](matheustonon.dev)
+
+<br><br>
+
+## Langs
+
+<div style="display: inline-block;">
+    <img align="center" alt="HTML" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg">
+    <img align="center" alt="CSS" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg">
+    <img align="center" alt="JAVASCRIPT" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg">
+    <img align="center" alt="PHP" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-plain.svg">
+    <img align="center" alt="CSHARP" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg">
+</div>
 
 <br><br>
 
@@ -25,15 +37,3 @@
  <img align="center" src="https://img.shields.io/badge/-mathxustonon-05122A?style=flat&logo=twitter" alt="twitter"/>
 </a>
 </p>
-
-### Langs
-
-##
-
-<div style="display: inline-block;">
-    <img align="center" alt="HTML" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg">
-    <img align="center" alt="CSS" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg">
-    <img align="center" alt="JAVASCRIPT" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg">
-    <img align="center" alt="PHP" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-plain.svg">
-    <img align="center" alt="CSHARP" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg">
-</div>
