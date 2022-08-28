@@ -3,7 +3,7 @@
 
 I am 17 years old, I am a simple programmer and lover of technology. I am currently training as a computer technician at ETEC.
 
-- 🌐 More at [matheustonon.dev](matheustonon.dev)
+- More at [matheustonon.dev](matheustonon.dev).
 
 <br><br>
 
