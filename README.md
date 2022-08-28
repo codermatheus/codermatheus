@@ -15,29 +15,16 @@
 <a href="https://twitch.tv/distromatheus" target="_blank">
   <img align="center" src="https://img.shields.io/badge/-distromatheus-05122A?style=flat&logo=twitch" alt="twitch"/>  
 </a>
-<a href="https://www.linkedin.com/in/matheus-tonon-dos-reis-8094601a1/" target="_blank">
-  <img align="center" src="https://img.shields.io/badge/-maykbrito-05122A?style=flat&logo=linkedin" alt="linkedin"/>
+<a href="https://www.linkedin.com/in/maathxustonon/" target="_blank">
+  <img align="center" src="https://img.shields.io/badge/-mathxustonon-05122A?style=flat&logo=linkedin" alt="linkedin"/>
 </a>
 <a href="https://instagram.com/mathxustonon" target="_blank">
- <img align="center" src="https://img.shields.io/badge/-maykbrito-05122A?style=flat&logo=instagram" alt="instagram"/>
+ <img align="center" src="https://img.shields.io/badge/-mathxustonon-05122A?style=flat&logo=instagram" alt="instagram"/>
 </a>
 <a href="https://twitter.com/mathxustonon" target="_blank">
  <img align="center" src="https://img.shields.io/badge/-mathxustonon-05122A?style=flat&logo=twitter" alt="twitter"/>
 </a>
 </p>
-##
-
-![My Stats](https://github-readme-stats.vercel.app/api?username=distromatheus&show_icons=true&theme=radical)   
-
-### Social links
-
-##
-
-[![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/channel/UCGjUT9i7AuRwRvRSqIELhMQ)
-[![Twitch](https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white)](https://twitch.tv/distromatheus)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/matheus-tonon-dos-reis-8094601a1/)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/mathxustonon)
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/mathxustonon)
 
 ### Langs
 
