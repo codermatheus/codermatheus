@@ -33,12 +33,12 @@
 
 <p align="left">
 <a href="https://www.youtube.com/channel/UCGjUT9i7AuRwRvRSqIELhMQ" target="_blank">
-  <img align="center" src="https://img.shields.io/badge/-mathxustonon-05122A?style=flat&logo=youtube" alt="youtube"/>
+  <img align="center" src="https://img.shields.io/badge/-JMatheus Tonon-05122A?style=flat&logo=youtube" alt="youtube"/>
 </a>
 <a href="https://twitch.tv/distromatheus" target="_blank">
   <img align="center" src="https://img.shields.io/badge/-distromatheus-05122A?style=flat&logo=twitch" alt="twitch"/>  
 </a>
-<a href="https://www.linkedin.com/in/maathxustonon/" target="_blank">
+<a href="https://www.linkedin.com/in/mathxustonon/" target="_blank">
   <img align="center" src="https://img.shields.io/badge/-mathxustonon-05122A?style=flat&logo=linkedin" alt="linkedin"/>
 </a>
 <a href="https://instagram.com/mathxustonon" target="_blank">
