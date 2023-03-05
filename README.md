@@ -4,7 +4,7 @@
 
 17 years old, I'm a simple developer, student of Computer Engineering.
 
-- More at [matheustonon.dev](matheustonon.dev). *SOON*
+- More at [matheustonon.dev](matheustonon.dev). *(SOON)*
 
 <br><br>
 
