@@ -2,7 +2,7 @@
 <h1 align="left">Hi 👋, I'm Matheus Tonon</h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=distromatheus&color=blue" alt="Profile views" /> </p>
 
-17 years old, I'm a simple programmer, student of Computer Engineering.
+17 years old, I'm a simple developer, student of Computer Engineering.
 
 - More at [matheustonon.dev](matheustonon.dev). *SOON*
 
